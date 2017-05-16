@@ -17,3 +17,8 @@
     * use GUI slider to edit values of watercolor animation
     * requires ofxFx and ofxGui addons
     * **fun tip**: comment out the lines *blur << grayscale;* and *normals << blur;* to make a GIF maker with an editable framerate!
+
+*Generative Project: facemask
+    * creates a mask over the face using FaceOSC
+    * uses ofxOsc, ofxGui, and ofxSyphon; requires a simultaneous run of FaceOSC
+    * https://vimeo.com/soleilkohl/facemask
