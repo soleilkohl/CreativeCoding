@@ -21,4 +21,9 @@
 * Generative Project: facemask
     * creates a mask over the face using FaceOSC
     * uses ofxOsc, ofxGui, and ofxSyphon; requires a simultaneous run of FaceOSC
-    * https://vimeo.com/soleilkohl/facemask
+    * video documentation- https://vimeo.com/soleilkohl/facemask
+
+* Interactivity Project: noiseBlur
+   * uses XBox Kinect to stream depth data into a mesh
+   * takes in live sound input to change the size of the mesh points
+   * video documentation- 
